@@ -16,10 +16,10 @@
 #### Run Miner Via Vps
 
 ```
-bash <(curl -s https://file.winsnip.xyz/file/uploads/sixgpt.sh)
+bash <(curl -s https://github.com/hallosayael/sixgpt-moksha/blob/main/sixgpt-moksha.sh)
 ```
 - Submit Your Private Key
-- Network : satori
+- Network : moksha
 - Done
 
 #### Chekc Log
